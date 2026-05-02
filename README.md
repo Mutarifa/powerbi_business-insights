@@ -95,7 +95,7 @@ The dashboard provides a centralized view of key metrics, enabling better unders
 ---
 
 ## 📁 Files Included
-- Power BI file (.pbix)
+- Power BI file (https://drive.google.com/file/d/1hKMDnv7xdh6KZ3XKmqbwHq35Lq5ZF3E7/view?usp=sharing)
 
 ---
 
