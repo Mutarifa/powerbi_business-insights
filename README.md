@@ -89,6 +89,7 @@ The dashboard provides a centralized view of key metrics, enabling better unders
 ## 📷 Dashboard Screenshots
 (https://github.com/Mutarifa/powerbi_business-insights/blob/main/finance_view.png)
 (https://github.com/Mutarifa/powerbi_business-insights/blob/main/sales_view.png)
+(https://github.com/Mutarifa/powerbi_business-insights/blob/main/supply_chain_view.png)
 
 
 ---
