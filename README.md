@@ -108,5 +108,5 @@ The dashboard provides a centralized view of key metrics, enabling better unders
 
 ---
 
-## 📬 Feedback
+## Feedback
 Feel free to share feedback or suggestions!
